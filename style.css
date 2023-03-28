@@ -1,0 +1,40 @@
+.material-symbols-outlined {
+    text-decoration: none;
+    margin: 5px;
+    font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.s1{
+    color: blue;
+}
+.b1{
+    color: black;
+}
+.f1{
+    color: blue;
+}
+.f2{
+    color: rgb(127, 123, 123);
+}
+.butten{
+    text-decoration: none;
+    border: 1px solid blue;
+    padding: 8px 25px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.butten1{
+    background-color: blue;
+    color: white;
+}
+.butten2{
+    color: blue;
+}
+.butten2:hover{
+    background-color:blue;
+    color: white;
+}
